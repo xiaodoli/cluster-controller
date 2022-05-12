@@ -1,6 +1,6 @@
 // This is a generated file. Do not edit directly.
 
-module k8s.io/cluster-controller
+module github.com/xiaodoli/cluster-controller
 
 go 1.18
 
